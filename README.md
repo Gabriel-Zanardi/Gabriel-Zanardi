@@ -2,4 +2,4 @@
 
 Hey, I am Gabriel Zanardi, a 16 year old polyglot boy learning how to program. Brazilian but living in Canada 😎
 
-
+<img src=".assets/
